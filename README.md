@@ -7,7 +7,7 @@ This ruleset is inspired by the [Super Kaizo IronMON Ruleset](https://github.com
 0. Super Kaizo ruleset/Smart AI/Held Items on Opponents etc... except
 1. Pick whatever legal mon you want in the lab
 2. All items allowed in lab
-3. Pivoting: Catch any 3 mons from any areas, pick which one you want to run between those 3 and lab mon. If at any point a mon receives Exp from a wild (i.e. momento) you cannot run that mon anymore.
+3. Pivoting: Catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. Must pivot before first trainer fight. If a mon receives Exp from a wild before first trainer, you are locked into that Mon and can no longer pivot.
 4. "Brock Buddy": Get a second mon to fight with in Pewter Gym (first mon you see after forrest, no restrictions. catch the first encounter or bust)
 5. All hidden items allowed - one chance at step items
 6. All TMs allowed - all move learners allowed (i.e. mega punch/kick guys after mt. Moon)
