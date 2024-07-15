@@ -1,6 +1,6 @@
 # Murphmon Ruleset by [BigMurph619](https://www.twitch.tv/bigmurph619):
 
-This ruleset is inspired by [Super Kaizo IronMON Ruleset](https://github.com/PyroMikeGit/SuperKaizoIronMON) by [iateyourpie](https://www.twitch.tv/iateyourpie)
+This ruleset is inspired by the [Super Kaizo IronMON Ruleset](https://github.com/PyroMikeGit/SuperKaizoIronMON) by [iateyourpie](https://www.twitch.tv/iateyourpie)
 
 ## Rules
 
