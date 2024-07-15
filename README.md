@@ -20,5 +20,6 @@ This is a modification of the [Super Kaizo IronMON Ruleset](https://github.com/P
     -may only level up each mon once before confirming pivot
     -may only get 2 of same mon as option
 11. Koga and on must be done with safari pivot
-12. Sevii islands free game: "overworld"
-13. doubles battles are free game, you may attack with HM friends, any other mon you want...limited to 2 mons in party
+12. Sabrina before Pokemon Mansion
+13. Sevii islands free game: "overworld"
+14. doubles battles are free game, you may attack with HM friends, any other mon you want...limited to 2 mons in party
