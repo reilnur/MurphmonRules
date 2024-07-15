@@ -17,9 +17,9 @@ This ruleset is inspired by the [Super Kaizo IronMON Ruleset](https://github.com
 10. Erika before snorlax awakening
 11. 6 Safari pivots, pick 1 and run it the rest of the way
     - illegal mons caught or evo'd into don't count towards the six (if you evo an illegal mon to a legal one with stone/rare candy that counts as 1). You may not level up illegal mon on trainers.
-    -all favorites and shinies are free additional catches, you may not look for a shiny after your 6th catch 
-    -may only level up each mon once before confirming pivot
-    -may only get 2 of same mon as option
+    - all favorites and shinies are free additional catches, you may not look for a shiny after your 6th catch 
+    - may only level up each mon once before confirming pivot
+    - may only get 2 of same mon as option
 12. Koga and on must be done with safari pivot
 13. Sabrina before Pokemon Mansion
 14. Sevii islands free game: "overworld". All items allowed, all exp allowed, etc. Second HM friend for Rock Smash as needed. Spa healing not allowed.
