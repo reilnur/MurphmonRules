@@ -5,21 +5,22 @@ This ruleset is inspired by the [Super Kaizo IronMON Ruleset](https://github.com
 ## Rules
 
 0. Super Kaizo ruleset/Smart AI/Held Items on Opponents etc... except
-1. Pick whatever legal mon you want in the lab
+1. Pick whatever legal(BST) mon you want in the lab
 2. All items allowed in lab
-3. Pivoting: Catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. Must pivot before first trainer fight. If a mon receives Exp from a wild before first trainer, you are locked into that Mon and can no longer pivot. You may not swap in Mons while scouting/catching. You may use any Mon at the front your party, however, until you lock in pivot.
-4. "Brock Buddy": Get a second mon to fight with in Pewter Gym (first mon you see after forrest, no restrictions. catch the first encounter or bust)
+3. Pivoting: Catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. Must pivot before first trainer fight. If a mon receives Exp from a wild before first trainer, you are locked into that Mon and can no longer pivot. You may not swap in Mons while scouting/catching. You may use any Mon at the front your party, however, until you lock in pivot. You may not swap mons during encounters.
+4. "Brock Buddy": Get a second mon to fight with in Pewter Gym (first mon you see after forrest, no restrictions. catch the first encounter or bust). Brock Buddy may faint, primary Mon cannot.
 5. All hidden items allowed - one chance at step items
-6. All found TMs allowed (No purchasing TMs) - all move tutors allowed (i.e. mega punch/kick guys after mt. Moon).
-7. Misty right after Bill, before Dig Rocket
+6. All found TMs allowed (No purchasing TMs) - all move tutors allowed (i.e. mega punch/kick guys after mt. Moon). No HMs. No restrictions on Sketch. Sketch your whole moveset if you want. If you find a way to learn Sketch multiple times on a decent Mon, sketch your heart out...sounds fun.
+7. Misty before Dig Rocket
 8. Surge before Rock Tunnel
-9. SS Anne farming allowed
+9. SS Anne farming allowed (Treat this as a dungeon)
 10. Erika before snorlax awakening
 11. 6 Safari pivots, pick 1 and run it the rest of the way
     - illegal mons caught or evo'd into don't count towards the six (if you evo an illegal mon to a legal one with stone/rare candy that counts as 1). You may not level up illegal mon on trainers.
     - all favorites and shinies are free additional catches, you may not look for a shiny after your 6th catch 
     - may only level up each mon once before confirming pivot
     - may only get 2 of same mon as option
+    - Only 1 of each favorite is free, additional atches count towards your 6
 12. Koga and on must be done with safari pivot
 13. Sabrina before Pokemon Mansion
 14. Sevii islands free game: "overworld". All items allowed, all exp allowed, etc. Second HM friend for Rock Smash as needed. Spa healing not allowed.
