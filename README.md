@@ -9,7 +9,7 @@ This ruleset is inspired by the [Super Kaizo IronMON Ruleset](https://github.com
 2. All items allowed in lab
 3. Pivoting: Catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. Must pivot before first trainer fight. If a mon receives Exp from a wild before first trainer, you are locked into that Mon and can no longer pivot. You may not swap in Mons while scouting/catching. You may use any Mon at the front your party, however, until you lock in pivot. You may not swap mons during encounters. 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots.
 4. "Brock Buddy": Get a second mon to fight with in Pewter Gym (first mon you see after forrest, no restrictions. catch the first encounter or bust). Brock Buddy may faint, primary Mon cannot.
-5. All hidden items allowed - one chance at step items
+5. All hidden items allowed - you may only attempt to retrieve step items once (if they don't spawn on your 1 check, you're out of luck).
 6. All found and gifted TMs allowed (No purchasing TMs) - all move tutors allowed (i.e. mega punch/kick guys after mt. Moon). No HMs. No restrictions on Sketch. Sketch your whole moveset if you want. If you find a way to learn Sketch multiple times on a decent Mon, sketch your heart out...sounds fun. BUT, if you accidently catch a mon while sketch scouting you must release it and not take its item.
 7. Misty before Dig Rocket
 8. Surge before Rock Tunnel
