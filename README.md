@@ -7,10 +7,10 @@ This ruleset is inspired by the [Super Kaizo IronMON Ruleset](https://github.com
 0. Super Kaizo ruleset/Smart AI/Held Items on Opponents etc... except
 1. Pick whatever legal(BST) mon you want in the lab
 2. All items allowed in lab
-3. Pivoting: Catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. Must pivot before first trainer fight. If a mon receives Exp from a wild before first trainer, you are locked into that Mon and can no longer pivot. You may not swap in Mons while scouting/catching. You may use any Mon at the front your party, however, until you lock in pivot. You may not swap mons during encounters. 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. Banned ability mons don't count towards your catches, you can catch one more for a chance at different ability.
-4. "Brock Buddy": Get a second mon to fight with in Pewter Gym (first mon you see after forrest, no restrictions. catch the first encounter or bust). Brock Buddy may faint, primary Mon cannot.
+3. Pivoting: Catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. Must pivot before the first trainer fight. If a mon receives Exp from a wild before first trainer, you are locked into that Mon and can no longer pivot. You may not swap in Mons while scouting/catching. You may use any Mon at the front of your party, however, until you lock in pivot. You may not swap mons during encounters. 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. Banned ability mons don't count towards your catches, you can catch one more for a chance at a different ability.
+4. "Brock Buddy": Get a second mon to fight with in Pewter Gym (first mon you see after forest, no restrictions. catch the first encounter or bust). Brock Buddy may faint, primary Mon cannot.
 5. All hidden items allowed - you may only obtain step items once.
-6. All found and gifted TMs allowed (No purchasing TMs) - all move tutors allowed (i.e. mega punch/kick guys after mt. Moon). No HMs. No restrictions on Sketch. Sketch your whole moveset if you want. If you find a way to learn Sketch multiple times on a decent Mon, sketch your heart out...sounds fun. BUT, if you accidently catch a mon while sketch scouting you must release it and not take its item.
+6. All found and gifted TMs allowed (No purchasing TMs) - all move tutors allowed (i.e. mega punch/kick guys after mt. Moon). No HMs. No restrictions on Sketch. Sketch your whole moveset if you want. If you find a way to learn Sketch multiple times on a decent Mon, sketch your heart out...sounds fun. BUT, if you accidentally catch a mon while sketch scouting you must release it and not take its item.
 7. Misty before Dig Rocket
 8. Surge before Rock Tunnel
 9. SS Anne farming allowed (Treat this as a dungeon)
@@ -20,10 +20,10 @@ This ruleset is inspired by the [Super Kaizo IronMON Ruleset](https://github.com
     - all favorites and shinies are free additional catches, you may not look for a shiny after your 6th catch 
     - may only level up each mon once before confirming pivot
     - may only get 2 of same mon as option
-    - Only 1 of each favorite is free, additional atches count towards your 6
+    - Only 1 of each favorite is free, additional catches count towards your 6
 12. Koga and on must be done with safari pivot
 13. Sabrina before Pokemon Mansion
-14. Sevii islands free game: "overworld". All items allowed, all exp allowed, etc. Second HM friend for Rock Smash as needed. Spa healing not allowed.
+14. Sevii islands free game: "overworld". All items allowed, all exp allowed, etc. Second HM friend for Rock Smash as needed. Spa healing is not allowed.
 15. Doubles battles are free game, you may attack with HM friends, any other mon you want...limited to 2 mons in party
 16. All held items found on pivot options, Brockbuddies, HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon.
 17. You may not enter a dungeon with a potential pivot in your party to see if it can learn a move from a tutor i.e. Silph Co., Mega Punch/Kick Tutors (You won't have surf yet so you'd have to go through Mt. Moon), Rock Tunnel. Overworld tutor checks are allowed before commiting to pivot.
