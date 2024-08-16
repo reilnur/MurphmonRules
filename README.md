@@ -8,7 +8,7 @@ Settings: The game must be randomized. All opponents must be level buffed by 50%
 
 1. You may pick any mon you want in the lab that is 555 BST or lower.
 
-2. All items allowed in lab
+2. All items are legal in lab
 
 3. Pivoting: Catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. Must pivot before the first trainer fight. If a mon receives Exp from a wild before first trainer, you are locked into that Mon and can no longer pivot. You may not swap in Mons while scouting/catching. You may use any Mon at the front of your party, however, until you lock in your pivot. You may not swap mons during encounters. 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
 
