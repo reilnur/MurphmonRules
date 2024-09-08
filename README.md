@@ -24,7 +24,7 @@ Settings: The game must be randomized. All opponents must be level buffed by 50%
 
 9. SS Anne EXP and item farming is allowed (Treat this as a dungeon).
 
-10. You must beat Erika before waking up Snorlax.
+10. You must beat Erika before waking up Snorlax. NOTE: You DO NOT fight tower rival until you are ready to rescue Mr. Fuji (You need the Silph Scope).
 
 11. You must pivot to a new mon that you have not caught yet in the Safari Zone. You may catch up to 6 Safari Zone pivot options.
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.
